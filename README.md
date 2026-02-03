@@ -5,8 +5,7 @@
 - 💡 Passionate about **coding**, **problem solving**, and **building projects**
 - 🚀 Interested in turning ideas into working solutions
 
-## 🛠️ Skills
-## 🛠️ Tech Stack & Tools
+## 🛠 Skills
 
 ### 💻 Programming Languages
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -18,8 +17,11 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
+
 ### 🌱 Currently Learning
 ![Data Structures](https://img.shields.io/badge/Data%20Structures-0A0A0A?style=for-the-badge)
+
+---
 
 ## 🎯 Goals
 - Strengthen problem-solving skills  
