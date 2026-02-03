@@ -4,12 +4,21 @@
 - 🎓 First-year **Computer Science** student
 - 💡 Passionate about **coding**, **problem solving**, and **building projects**
 - 🚀 Interested in turning ideas into working solutions
-- 🌱 Currently focusing on **Data Structures**
+- 🌱 Currently focusing on ![Data Structures](https://img.shields.io/badge/Data%20Structures-0A0A0A?style=for-the-badge)
 
 ## 🛠️ Skills
-- **Languages:** C++, Python  
-- **Tools:** Git  
-- **Currently Learning:** Data Structures
+## 🛠️ Tech Stack & Tools
+
+### 💻 Programming Languages
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+---
+
+### 🔧 Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
 
 ## 🎯 Goals
 - Strengthen problem-solving skills  
