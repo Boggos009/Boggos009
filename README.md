@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Bemwa Bakhet 👋
 
-<!--
-**Boggos009/Boggos009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
+- 🎓 First-year **Computer Science** student
+- 💡 Passionate about **coding**, **problem solving**, and **building projects**
+- 🚀 Interested in turning ideas into working solutions
+- 🌱 Currently focusing on **Data Structures**
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- **Languages:** C++, Python  
+- **Tools:** Git  
+- **Currently Learning:** Data Structures
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Goals
+- Strengthen problem-solving skills  
+- Build a solid foundation in computer science concepts  
+
+---
+
+⭐ Feel free to explore my repositories and follow my learning journey!
