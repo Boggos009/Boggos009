@@ -36,8 +36,9 @@
 </p>
 
 <p align="center">
-  <img src="https://codeforces-readme-stats.vercel.app/api/profile/Boggos?theme=dark" height="300"/>
+  <img src="https://cf.leed.at?id=Boggos&theme=dark" height="300"/>
 </p>
+
 
 
 ---
