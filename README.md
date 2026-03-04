@@ -34,16 +34,13 @@
 
 ## 🏆 Problem Solving
 
-<p align="center">
-  <a href="https://leetcode.com/Boggos">
-    <img src="https://leetcard.jacoblin.cool/Boggos?theme=nord&font=Baloo" />
-  </a>
-</p>
+---
+
+## 🏆 Competitive Programming
 
 <p align="center">
-  <a href="https://codeforces.com/profile/Boggos">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Boggos&theme=dark" />
-  </a>
+  <img src="https://leetcard.jacoblin.cool/Boggos?theme=nord&font=Baloo" height="200"/>
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Boggos&theme=dark" height="200"/>
 </p>
 
 
