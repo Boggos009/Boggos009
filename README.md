@@ -30,10 +30,20 @@
 ---
 
 
-## 🧠 Problem Solving
+---
+
+## 🏆 Problem Solving
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Boggos?theme=nord&font=Baloo&ext=contest" />
+  <a href="https://leetcode.com/Boggos">
+    <img src="https://leetcard.jacoblin.cool/Boggos?theme=nord&font=Baloo" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://codeforces.com/profile/Boggos">
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Boggos&theme=dark" />
+  </a>
 </p>
 
 
