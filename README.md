@@ -29,14 +29,7 @@
 
 ---
 
-
----
-
 ## 🏆 Problem Solving
-
----
-
-## 🏆 Competitive Programming
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Boggos?theme=nord&font=Baloo" height="200"/>
