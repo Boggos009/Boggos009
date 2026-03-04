@@ -36,10 +36,10 @@
 </p>
 
 <p align="center">
-  <img src="https://cf.leed.at?id=Boggos&theme=dark" height="300"/>
+  <a href="https://codeforces.com/profile/Boggos">
+    <img src="https://img.shields.io/badge/Codeforces-Profile-blue?style=for-the-badge&logo=codeforces&logoColor=white"/>
+  </a>
 </p>
-
-
 
 ---
 ⭐ Feel free to explore my repositories and follow my learning journey!
