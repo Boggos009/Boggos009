@@ -32,10 +32,9 @@
 ## 🏆 Problem Solving
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Boggos?theme=nord&font=Baloo&hide=ranking" height="220"/>
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Boggos&theme=dark&hide=contribution,friend_of,submissions,rank" height="280"/>
+  <img src="https://leetcard.jacoblin.cool/Boggos?theme=nord&font=Baloo" height="220"/>
+  <img src="https://codeforces-readme-stats.vercel.app/api/profile/Boggos?theme=dark" height="320"/>
 </p>
-
 
 
 ---
