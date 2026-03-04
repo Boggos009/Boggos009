@@ -32,18 +32,10 @@
 ## 🏆 Problem Solving
 
 <p align="center">
-
-  <!-- LeetCode -->
   <img src="https://leetcard.jacoblin.cool/Boggos?theme=nord&font=Baloo&hide=ranking" height="220"/>
-
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Boggos&theme=dark&hide=contribution,friend_of,submissions,rank" height="280"/>
 </p>
 
-<p align="center">
-
-  <!-- Codeforces Bigger + Clean -->
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Boggos&theme=dark&show_icons=true&disable_animations=false&hide=contribution,friend_of,submissions,rank" height="260"/>
-
-</p>
 
 
 ---
