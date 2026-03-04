@@ -29,13 +29,13 @@
 
 ---
 
+
+## 🧠 Problem Solving
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Boggos?theme=nord&font=Baloo&ext=contest" />
+</p>
+
+
 ---
-
-## 🧠 LeetCode Journey
-
-💪 Solving problems daily and improving my algorithmic thinking.
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/Boggos?theme=dark&font=baloo)
-
-
 ⭐ Feel free to explore my repositories and follow my learning journey!
